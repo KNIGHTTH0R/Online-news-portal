@@ -1,0 +1,5 @@
+1. First install the Xampp for the local database.
+2. Import the 'newspaper' folder into the localhost.('newspaper' is in the 'Databae' folder)
+3. Now put the khobor24.com into the 'Xampp/htdocs/' 
+4. Open the browser and write localhost/khobor24.com/index.php
+5. Now u have your home page.
